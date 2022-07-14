@@ -3,8 +3,8 @@
 ## **Thực tập sinh: Lê Phạm Hoàng Thương** 
 
 ### 1. Mục tiêu
-- Biết được các lý thuyết, nguyên lý hoạt động về các thành phần của Drone.
-- Thử giao tiếp với các thiết bị ngoại vi được dùng trong Drone bằng RaspberryPi.
+- Các bản báo cá về lý thuyết, nguyên lý hoạt động về các thành phần của Drone.
+- Các chương trình về giao tiếp với các thiết bị ngoại vi được dùng trong Drone bằng RaspberryPi.
 - Sử dụng các phần mềm có sẵn như Ardupilot, Mission Planner, … để vận dụng các lý thuyết trên.
 
 ### 2. Kế hoạch

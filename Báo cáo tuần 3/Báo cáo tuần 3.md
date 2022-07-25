@@ -35,6 +35,6 @@
 - Chọn bộ chia là 400, Range là 960 ta thu được xung có tần số 50 Hz, là 20ms.
 - Ở hàm pwmWrite thì tham số sau có giá trị từ 0 - 1024, nên để tạo xung PWM có độ rộng từ 1ms đến 2ms thì cần tham số từ 52 - 103,
 
-### 2.Điều khiển tốc độ động cơ BLDC dựa trên sự thay đổi về góc Roll
+### 3.Điều khiển tốc độ động cơ BLDC dựa trên sự thay đổi về góc Roll
 - Ta sẽ tạo một hàm tuyến tính đưa giá trị góc Roll từ -90 đến 90 về giá trị 50 - 100 để đưa vào hàm pwmWrite và thay đổi tốc độ động cơ.
 
